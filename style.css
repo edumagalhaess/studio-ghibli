@@ -139,7 +139,7 @@ p {
 }
 
 .img-sombras {
-    margin-left: 150px;
+   
     display: flex;
     height: 425px;
     width: 574px;
@@ -166,7 +166,7 @@ p {
 
     /* Centralizar tudo em coluna e invertendo a ordem */
     .container-pai {
-        display: flex;
+        
         padding: 64px 0px;
         flex-direction: column-reverse;
         justify-content: center;
@@ -200,27 +200,44 @@ p {
 
     .img-sombras {
         min-width: 280px;
-        min-height: 150px;
+        height: 325px;
         margin-top: 40px;
+        margin-left: 47px;
     }
 
     .button-container {
         display: flex;
         flex-direction: column;
         align-items: center;
+         width: 327px;
+         gap: 5px;
+         margin-bottom: 49px;
+    margin-left: 60px;
 
     }
-
+    .button-trailer{
+width: 327px;
+        } 
+.button-agora{
+    width: 327px;
+    
+}
+ 
     h6 {
         font-size: 16px;
+        width: 251px;
     }
 
     h1 {
         font-size: 40px;
+        width: 327px;
+        margin-left: 64px;
     }
 
     p {
         font-size: 16px;
+          margin-left: 64px;
+        width: 335px;
 
     }
 
