@@ -31,6 +31,7 @@ header {
     align-self: stretch;
 }
 
+
 a {
     display: flex;
     width: 30px;
@@ -41,6 +42,10 @@ a {
     border-radius: 999px;
     border: 1px solid #FFF;
     background: rgba(255, 255, 255, 0.20)
+}
+
+a:hover{
+    border-color:#F1A5B1;
 }
 
 .grupo {
@@ -129,6 +134,17 @@ p {
     line-height: normal;
     text-transform: uppercase;
     cursor: pointer;
+}
+
+.button-agora:hover{
+    background-color: #da7282;
+    transition: 0.5s;
+}
+
+.button-trailer:hover{
+    border-color: #da7282;
+    color: #F1A5B1;
+    transition: 0.5s;
 }
 
 .button-container {
