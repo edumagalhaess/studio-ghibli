@@ -72,7 +72,7 @@ Este projeto foi feito apenas para fins educacionais.
 Desenvolvido por **Eduardo Magalhães**
 
 - GitHub: [@edumagalhaess](https://github.com/edumagalhaess)
-- LinkedIn: [eduardocmagalhaes](https://www.linkedin.com/in/eduardoccmagalhaes/)
+- LinkedIn: [eduardoccmagalhaes](https://www.linkedin.com/in/eduardoccmagalhaes/)
 - E-mail: magalhaes.eddu@gmail.com
 - Discord: eduardugg
 
